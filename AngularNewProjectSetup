@@ -1,0 +1,11 @@
+1) open Node.js command prompt
+2) set root folder path Ex:- cd Angular
+3) Create a new workspace and an initial application
+    ng new ApplicationTableAccess
+
+
+Tutorial Page
+https://angular.io/tutorial/toh-pt0
+
+Attached Images
+https://github.com/KaviyarasiSekar/AccessDataViaSpringBoot/issues/1#issue-1118277966
