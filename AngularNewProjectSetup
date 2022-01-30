@@ -1,7 +1,15 @@
-1) open Node.js command prompt
-2) set root folder path Ex:- cd Angular
-3) Create a new workspace and an initial application
+1) Install NodeJS
+2) open Node.js command prompt
+3) set root folder path Ex:- cd Angular
+4) Create a new workspace and an initial application
     ng new ApplicationTableAccess
+5) Install all required npm packages by running command from the command line in the project root folder (where the package.json is located)
+    npm install -g @angular/cli
+6) Start the application by running
+       ng serve --open
+           (or)
+       ng serve --port 3000
+       
 
 
 Tutorial Page
